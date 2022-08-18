@@ -6,5 +6,7 @@ Aplikacja wykonana przez [Top Online](https://toponline.pl) z myślą o społecz
 
 ### Przydatne linki:
 
-[Kurs SEO Samodzielni](https://toponline.pl/seo-samodzielni) - [Baza wiedzy SEO](https://toponline.pl/baza-wiedzy) - [SEO News](https://toponline.pl/seo-news)
- - [SEO Webinary](https://toponline.pl/seo-webinary)
+- [Kurs SEO Samodzielni](https://toponline.pl/seo-samodzielni)
+- [Baza wiedzy SEO](https://toponline.pl/baza-wiedzy)
+- [SEO News](https://toponline.pl/seo-news)
+- [SEO Webinary](https://toponline.pl/seo-webinary)
