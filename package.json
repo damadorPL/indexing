@@ -35,6 +35,6 @@
   "author": "tomk",
   "license": "",
   "engines": {
-    "node": "^14.16"
+    "node": "^20.0.0"
   }
 }
