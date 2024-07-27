@@ -19,7 +19,7 @@
     "swig": "^1.4.2"
   },
   "devDependencies": {
-    "eslint": "5.16.0"
+    "eslint": "9.8.0"
   },
   "scripts": {
     "start": "NODE_ENV=production node app.js",
